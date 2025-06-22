@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|c:\\users\\rehim\\onedrive\\desktop\\onlinebank\\onlinebank\\onlinebank\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\onlinebank\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79BBE315-784A-403A-8C49-725A7E406F86}|OnlineBank\\OnlineBank.csproj|solutionrelative:onlinebank\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\User.cs",
+              "RelativeToolTip": "OnlineBank\\Models\\User.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:15:59.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\Transaction.cs",
+              "RelativeToolTip": "OnlineBank\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T20:10:52.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Models\\LoginModel.cs",
+              "RelativeToolTip": "OnlineBank\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:44:38.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Program.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Program.cs",
+              "RelativeToolTip": "OnlineBank\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAvwDcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T17:43:43.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineBank\\appsettings.json",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\appsettings.json",
+              "RelativeToolTip": "OnlineBank\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-22T16:44:45.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "OnlineBank\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAMwEkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:40:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "OnlineBank\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\Users\\rehim\\OneDrive\\Desktop\\OnlineBank\\OnlineBank\\OnlineBank\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "OnlineBank\\Controllers\\TransactionController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAowEIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T16:33:40.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
